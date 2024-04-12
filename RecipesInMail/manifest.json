@@ -11,5 +11,6 @@
 			"UniqueID": "DIGUS.MailFrameworkMod",
 			"MinimumVersion": "1.1.16"
 		}
-	]
+	],
+	"UpdateKeys": [ "Nexus:22173" ]
 }
